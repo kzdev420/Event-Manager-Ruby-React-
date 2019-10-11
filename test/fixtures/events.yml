@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_type: MyString
+  event_date: 2019-10-08
+  title: MyText
+  speaker: MyString
+  string: MyString
+  host: MyString
+  published: false
+
+two:
+  event_type: MyString
+  event_date: 2019-10-08
+  title: MyText
+  speaker: MyString
+  string: MyString
+  host: MyString
+  published: false
